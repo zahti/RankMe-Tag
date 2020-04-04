@@ -12,7 +12,7 @@ public Plugin myinfo =
 	name = "RankMe Clantag",
 	author = "maoling ( xQy ), B3none, Zahti",
 	description = "Installed alongside the RankMe plugin to show Rank-## as a prefix to the players name.",
-	version = "1.3.3",
+	version = "1.3.4",
 	url = "https://github.com/zahti/RankMe-Tag"
 };
 
