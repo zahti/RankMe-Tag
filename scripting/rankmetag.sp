@@ -10,9 +10,9 @@ char g_szClantag[MAXPLAYERS+1][32];
 public Plugin myinfo = 
 {
 	name = "RankMe Clantag",
-	author = "maoling ( xQy ), B3none",
+	author = "maoling ( xQy ), B3none, Zahti",
 	description = "",
-	version = "1.3.2",
+	version = "1.3.3",
 	url = "https://github.com/Kxnrl/RankMe-Tag"
 };
 
