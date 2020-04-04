@@ -1,15 +1,5 @@
 # RankMe-Tag
-RankMe-Addon 
-Only test under CSGO
+Installed alongside the RankMe plugin to show Rank-## as a prefix to the players name. Only tested with CS:GO.
 
-Base on RankMe 3.0.3
-https://github.com/benscobie/sourcemod-rankme
-
-Old version 2.8.3 by lokizito for CSS 
-https://forums.alliedmods.net/showthread.php?t=155621
-
-smlib
-https://github.com/bcserv/smlib
-
-My Steam
-http://steamcommunity.com/id/_xQy_/
+Forked from https://github.com/Kxnrl/RankMe-Tag since his version wasn't compiling as of 4/3/2020.
+Message me on Discord with any questions: Zahti#1337
