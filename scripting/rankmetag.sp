@@ -11,9 +11,9 @@ public Plugin myinfo =
 {
 	name = "RankMe Clantag",
 	author = "maoling ( xQy ), B3none, Zahti",
-	description = "",
+	description = "Installed alongside the RankMe plugin to show Rank-## as a prefix to the players name.",
 	version = "1.3.3",
-	url = "https://github.com/Kxnrl/RankMe-Tag"
+	url = "https://github.com/zahti/RankMe-Tag"
 };
 
 public void OnAllPluginsLoaded()
@@ -52,7 +52,7 @@ public int GetClientRankCallback(int client, int rank, any data)
 	}
 	else
 	{
-		Format(g_szClantag[client], 32, "Top-%d", rank);
+		Format(g_szClantag[client], 32, "Rank-%d", rank);
 	}
 }
 
