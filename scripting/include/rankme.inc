@@ -89,7 +89,7 @@ public SharedPlugin:__pl_rankme=
 };
 
 typeset RankCallback {
-  function public (int client, int rank, any data);
+  function void (int client, int rank, any data);
 };
 
 public __pl_rankme_SetNTVOptional()
