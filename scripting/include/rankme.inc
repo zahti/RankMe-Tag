@@ -88,9 +88,8 @@ public SharedPlugin:__pl_rankme=
 	#endif
 };
 
-funcenum RankCallback
-{
-	public(client, rank,any:data),
+typeset RankCallback {
+  function public (int client, int rank, any data);
 };
 
 public __pl_rankme_SetNTVOptional()
